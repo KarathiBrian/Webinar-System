@@ -25,7 +25,7 @@ const EventDtl2 = () => {
                 <li>Individuals ready to turn passion into profit</li>
               </ul>
               <button onClick={registerEvent}>Register Now</button>
-              <p className='trust-badge'>Join 5,000+ Women</p>
+              <p className='trust-badge'>Join 500+ Women</p>
             </div>
           </div>
         </div>

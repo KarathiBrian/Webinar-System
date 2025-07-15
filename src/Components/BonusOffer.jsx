@@ -26,7 +26,7 @@ const BonusOffer = () => {
             <li>Real steps to move forward.</li>
           </ul>
           <p className="bonus-closing">
-            You’re not alone. Join 5,000+ women rising together. <span className="bonus-highlight">Learn more</span>
+            You're not alone. Join 5,000+ women rising together. <span className="bonus-highlight">Learn more</span>
           </p>
           <button className="bonus-cta" onClick={registerBonus}>Secure Your Spot</button>
         </article>
