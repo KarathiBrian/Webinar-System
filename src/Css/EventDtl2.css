@@ -206,6 +206,11 @@ height: 35px;
   .divider {
     display: none;
   }
+
+  .downSection {
+    flex-direction: column-reverse;
+  }
+
 }
 
 @media (max-width: 480px) {
@@ -213,3 +218,5 @@ height: 35px;
     display: none;
   }
 }
+
+
