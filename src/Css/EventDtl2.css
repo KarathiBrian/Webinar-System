@@ -1,10 +1,3 @@
-body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  background-color: #f9f6f2;
-}
-
 .bigSection {
   height: 70vh;
   width: 100%;
@@ -201,5 +194,19 @@ button:hover {
   .divider {
     margin: 16px auto;
     width: 90%;
+  }
+}
+ 
+
+
+@media (max-width: 768px) {
+  .divider {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .divider {
+    display: none;
   }
 }
