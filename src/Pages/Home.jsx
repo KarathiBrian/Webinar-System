@@ -2,7 +2,7 @@ import React from 'react';
 import "../Css/Home.css";
 import { useNavigate } from 'react-router-dom';
 import mobileImg from "../assets/nw3.jpg";
-import desktopImg from "../assets/nw1.jpg";
+import desktopImg from "../assets/Homedesk.jpg";
 
 const Home = () => {
   const navigate = useNavigate();
