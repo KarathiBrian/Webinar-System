@@ -1,6 +1,6 @@
 import React from 'react'
 import "../Css/EventDtl.css"
-
+import Rev from "../assets/8.jpg"
 
 const EventDtl = () => {
   return (
@@ -32,7 +32,7 @@ const EventDtl = () => {
             </div>
             <div className='rightUp'>
 
-
+{/* <img src={Rev} alt="" /> */}
 
             </div>
 
